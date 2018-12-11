@@ -71,4 +71,10 @@
     'path' => 'D:/ProgF/xampp1/htdocs/modx/core/components/translit/',
     'assets_path' => '',
   ),
+  'wayfinder' => 
+  array (
+    'name' => 'wayfinder',
+    'path' => 'D:/ProgF/xampp1/htdocs/modx/core/components/wayfinder/',
+    'assets_path' => '',
+  ),
 );

@@ -6,6 +6,8 @@
   array (
     'index' => 1,
     'o-kompanii' => 2,
+    'move' => 3,
+    'kontaktyi' => 4,
   ),
   'resourceMap' => 
   array (
@@ -13,6 +15,8 @@
     array (
       0 => 1,
       1 => 2,
+      2 => 3,
+      3 => 4,
     ),
   ),
   'webLinkMap' => 
@@ -67,8 +71,8 @@
     ),
     'OnMODXInit' => 
     array (
-      3 => '3',
       9 => '9',
+      3 => '3',
     ),
     'OnPluginFormPrerender' => 
     array (
@@ -105,13 +109,13 @@
     ),
     'OnTVInputPropertiesList' => 
     array (
-      3 => '3',
       7 => '7',
+      3 => '3',
     ),
     'OnTVInputRenderList' => 
     array (
-      7 => '7',
       3 => '3',
+      7 => '7',
     ),
     'OnTVOutputRenderList' => 
     array (

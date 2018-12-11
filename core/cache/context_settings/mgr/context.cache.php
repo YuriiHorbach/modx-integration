@@ -50,8 +50,8 @@
     ),
     'OnFileManagerUpload' => 
     array (
-      4 => '4',
       3 => '3',
+      4 => '4',
     ),
     'OnLoadWebDocument' => 
     array (
@@ -95,8 +95,8 @@
     ),
     'OnRichTextEditorRegister' => 
     array (
-      6 => '6',
       1 => '1',
+      6 => '6',
     ),
     'OnSnipFormPrerender' => 
     array (
@@ -113,8 +113,8 @@
     ),
     'OnTVInputRenderList' => 
     array (
-      7 => '7',
       3 => '3',
+      7 => '7',
     ),
     'OnTVOutputRenderList' => 
     array (
