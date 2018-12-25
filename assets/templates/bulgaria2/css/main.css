@@ -148,24 +148,28 @@ header{
 	padding: 24px 0 20px 0;
 }
 
-.menu__item{
+.menu li{
 	float:left;
+	padding: 0 10px;
 }
 
-.menu__item a{
+.menu li a{
 	color: #f0f3f5;
 	font-weight: 900;
 	font-size: 0.733rem;
 	border-radius: 5px;
 	padding: 13px 12px;
-	
-	
 }
 
-.menu__item a:hover{
+.menu li a:hover{
 	background: #375e73;
 	color: #fff;
 	text-decoration: none;]
+}
+
+.menu li.active a{
+	background: #395e72;
+	color: #fff;
 }
 
 .contacts__all{
@@ -200,7 +204,7 @@ header{
 
 
 
-.first{
+.first__screen{
 	background-color: rgba(16, 52, 73, 0.4);
 	height: 90vh;
 }

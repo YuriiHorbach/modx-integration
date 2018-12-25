@@ -95,8 +95,8 @@
     ),
     'OnRichTextEditorRegister' => 
     array (
-      1 => '1',
       6 => '6',
+      1 => '1',
     ),
     'OnSnipFormPrerender' => 
     array (
@@ -113,8 +113,8 @@
     ),
     'OnTVInputRenderList' => 
     array (
-      3 => '3',
       7 => '7',
+      3 => '3',
     ),
     'OnTVOutputRenderList' => 
     array (

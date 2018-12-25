@@ -6,4 +6,5 @@ return array (
   3 => '/root/n_type_snippet',
   4 => '/root/n_type_plugin',
   5 => '/root/n_category',
+  6 => '/root/n_category/n_category_7',
 );
