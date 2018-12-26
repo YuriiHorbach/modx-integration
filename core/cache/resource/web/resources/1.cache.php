@@ -211,16 +211,16 @@
 					<div class="row">
 					    <div class="col-md-6 col-lg-4">
 	<li class="adv__item text-center">
-		<div class="adv__img adv__img_first">
+		<div class="adv__img adv__img_third">
 		</div>
 		<div class="adv__title upper bolder">
-			Надежность
+			Компетентность
 		</div>
 		<div class="adv__line">
 								
 		</div>
 		<p class="adv__txt text-normal">
-			Мы всегда придем к вам на помощь в решении самых неоднозначных вопросов
+			Наши специалисты с большим опытом работы помогут разобраться во всех юридических тонкостях переезда на ПМЖ в Болгарию 
 		</p>
 	</li>	
 </div>
@@ -235,22 +235,22 @@
 								
 		</div>
 		<p class="adv__txt text-normal">
-			Мы всегда придем к вам на помощь в решении самых неоднозначных вопросов
+			Мы всегда придем к вам на помощь в решении самых неоднозначных вопросов 
 		</p>
 	</li>	
 </div>
 <div class="col-md-6 col-lg-4">
 	<li class="adv__item text-center">
-		<div class="adv__img adv__img_first">
+		<div class="adv__img adv__img_second">
 		</div>
 		<div class="adv__title upper bolder">
-			Надежность
+			Достоверность
 		</div>
 		<div class="adv__line">
 								
 		</div>
 		<p class="adv__txt text-normal">
-			Мы всегда придем к вам на помощь в решении самых неоднозначных вопросов
+			Достоверность - главный принцип нашей работы. Мы знаем все тонкости переезда в Болгарию и оформления соответствующих документов 
 		</p>
 	</li>	
 </div>
@@ -556,7 +556,7 @@
 </body>
 </html>  
 ',
-    '_isForward' => true,
+    '_isForward' => false,
   ),
   'contentType' => 
   array (
@@ -610,16 +610,16 @@
 </ul>',
     '[[getResources? &parents=`5` &tpl=`tpl-merit` &includeTVs=`1` ]]' => '<div class="col-md-6 col-lg-4">
 	<li class="adv__item text-center">
-		<div class="adv__img adv__img_first">
+		<div class="adv__img adv__img_third">
 		</div>
 		<div class="adv__title upper bolder">
-			Надежность
+			Компетентность
 		</div>
 		<div class="adv__line">
 								
 		</div>
 		<p class="adv__txt text-normal">
-			Мы всегда придем к вам на помощь в решении самых неоднозначных вопросов
+			Наши специалисты с большим опытом работы помогут разобраться во всех юридических тонкостях переезда на ПМЖ в Болгарию 
 		</p>
 	</li>	
 </div>
@@ -634,22 +634,22 @@
 								
 		</div>
 		<p class="adv__txt text-normal">
-			Мы всегда придем к вам на помощь в решении самых неоднозначных вопросов
+			Мы всегда придем к вам на помощь в решении самых неоднозначных вопросов 
 		</p>
 	</li>	
 </div>
 <div class="col-md-6 col-lg-4">
 	<li class="adv__item text-center">
-		<div class="adv__img adv__img_first">
+		<div class="adv__img adv__img_second">
 		</div>
 		<div class="adv__title upper bolder">
-			Надежность
+			Достоверность
 		</div>
 		<div class="adv__line">
 								
 		</div>
 		<p class="adv__txt text-normal">
-			Мы всегда придем к вам на помощь в решении самых неоднозначных вопросов
+			Достоверность - главный принцип нашей работы. Мы знаем все тонкости переезда в Болгарию и оформления соответствующих документов 
 		</p>
 	</li>	
 </div>',

@@ -7,4 +7,5 @@ return array (
   4 => '/root/n_type_plugin',
   5 => '/root/n_category',
   6 => '/root/n_category/n_category_7',
+  7 => '/root/n_type_chunk/n_chunk_category_4',
 );

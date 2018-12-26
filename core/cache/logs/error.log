@@ -7,3 +7,4 @@
 [2018-12-21 19:18:30] (ERROR @ D:\progF\xampp1\htdocs\modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/default
 [2018-12-21 20:23:40] (ERROR @ D:\progF\xampp1\htdocs\modx\core\model\modx\modcachemanager.class.php : 317) Could not cache resource 1
 [2018-12-25 10:17:58] (ERROR @ D:\ProgF\xampp1\htdocs\modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default
+[2018-12-26 13:31:39] (ERROR @ D:\ProgF\xampp1\htdocs\modx\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/ru/core/default

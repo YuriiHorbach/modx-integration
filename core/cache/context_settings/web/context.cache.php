@@ -125,8 +125,8 @@
     ),
     'OnTVInputRenderList' => 
     array (
-      3 => '3',
       7 => '7',
+      3 => '3',
     ),
     'OnTVOutputRenderList' => 
     array (
